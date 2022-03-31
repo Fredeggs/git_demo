@@ -1,11 +1,11 @@
 body {
     color: black;
-    background-color: aquamarine;
+    background-color: orchid;
     display: flex;
     justify-content: center;
 }
 
 h1 {
-    font-size: 15rem;
+    font-size: 13rem;
     color: blueviolet;
 }
